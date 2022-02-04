@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+## Contact information
+- Dominik Marc Helfenstein
+- born on 15th May 2000 in Mühlacker
 
-You can use the [editor on GitHub](https://github.com/dippa-1/digital-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Personal Statement (Personal Profile)
+## Berufserfahrung
+- Duales Studium bei der KOMET Deutschland GmbH *(2019 - 2022)*
+	- Umsetzung von embedded Systems Projekten in der Abteilung für mechatronische Entwicklung
+- Ferienjob in der Zahnstangenfertigung bei Atlanta in Bietigheim-Bissingen *(2018)*
+- BOGY Praktikum bei Robert Bosch GmbH in Schwieberdingen im Bereich Forschung und Entwicklung *(11. - 15. April 2016)*
+- Zeitung austragen
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Ausbildung
+- B. Eng. Elektrotechnik mit Schwerpunkt Elektronik, Duale Hochschule Baden-Württemberg *(2019 - 2022)*
+	- Ausbildungsfirma: [KOMET Deutschland GmbH](https://cuttingtools.ceratizit.com/de/de/komet-redirect.html)
+- Elektrotechnik und Informationstechnik, Universität Stuttgart *(2018 - 2019)*
+- Friedrich-Abel-Gymnasium, 71665 Vaihingen/Enz *(2010 - 2018)*
+- Grundschule Oberriexingen _(2006 - 2010)_
 
-### Markdown
+## Kenntnisse & Fähigkeiten
+### Sprachen
+- Deutsch (Muttersprache)
+- Englisch (C2.2)
+- Latein (kleines Latinum)
+- Chinesisch (eingeschränkt)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Sonstiges
+- Führerschein Klasse B
+- Projektmanagement Basiszertifikat
 
-```markdown
-Syntax highlighted code block
+### Computer-Kenntnisse und verwendete Software
+Programmiersprachen (nach absteigender Sicherheit)
 
-# Header 1
-## Header 2
-### Header 3
+| Sprache               | Zeitraum  | ungefähr investierte Zeit | 
+| --------------------- | --------- | ------------------------- |
+| C, C++                | seit 2016 | > 1000 h                  |
+| Python                | seit 2018 | hunderte h                |
+| HTML, CSS, JavaScript | seit 2021 | hunderte h                |
+| Dart                  | seit 2018 | hunderte h                |
+| Bash (Linux)          | seit 2020 | hundert h                 |
+| Java                  | seit 2017 | hundert h                 |
+| VHDL                  | seit 2021 | dutzende h                |
+| Rust                  | seit 2021 | dutzende h                |
 
-- Bulleted
-- List
+| Framework | Zeitraum    | Sicherheit    |
+| --------- | ----------- | ------------- |
+| Arduino   | seit 2016   | hoch          |
+| Svelte    | seit 2021   | mittel - hoch |
+| Flutter   | seit 2018   | mittel - hoch |
+| Pytorch   | seit 2018   | gering        |
+| AutoIt    | 2018 - 2019 | -             |
 
-1. Numbered
-2. List
+Sonstige Software
+- Visual Studio Code
+- Vim / Neovim
+- GitHub: git, CI/CD Actions
+- Autodesk Fusion 360
+- Ultimaker Cura
+- Latex
 
-**Bold** and _Italic_ and `Code` text
+Häufiger verwendete Hardware
+- ESP32 / ESP8266
+- STM32F4
+- EFM32 Tiny Gecko
+- Raspberry Pi
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dippa-1/digital-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Projekte
